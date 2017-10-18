@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hearts
-permalink: /and-hearts/
+permalink: /and-hearts
 ---
 
 Here are all the things iHeart [jekyllrb.com](https://jekyllrb.com/)

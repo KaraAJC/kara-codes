@@ -1,7 +1,7 @@
 ---
 layout: page
 title: And...
-permalink: /and/
+permalink: /and
 ---
 
 Hi! My name is Kara Carrell, I'm a freelance web developer, who prides herself in curiosity and the wonder of the web.
