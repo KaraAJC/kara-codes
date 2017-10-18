@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kara Learns
+title: Learns
 permalink: /til/
 ---
 

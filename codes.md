@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kara Codes
+title: Codes
 permalink: /stuff/
 ---
 

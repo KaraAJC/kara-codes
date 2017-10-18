@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kara Talks
+title: Talks
 permalink: /and-talks/
 ---
 

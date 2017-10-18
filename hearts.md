@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kara Hearts
+title: Hearts
 permalink: /and-hearts/
 ---
 

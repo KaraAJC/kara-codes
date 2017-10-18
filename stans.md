@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kara Stans
+title: Stans
 permalink: /and-stans/
 ---
 
