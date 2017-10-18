@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Codes
+title: Creates
 permalink: /stuff/
 ---
 
