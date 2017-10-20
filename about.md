@@ -17,5 +17,11 @@ I'm the human of an adorable doggie...
 ### AND
 I'm an android.
 
-You can find out more about what I've been doing on the web via GitHub:
-[KaraAJC](https://github.com/karaAJC)
+___
+
+#### Want even MORE info?
+You can find out more about what I've been doing on the web via:
+- [Github](https://github.com/karaAJC)
+- [LinkedIN](https://www.linkedin.com/in/KaraAJC)
+- [Portfolio Site](https://karaajc.github.io/index.html#about)
+- [Resume](#)

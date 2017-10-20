@@ -3,16 +3,29 @@ layout: page
 title: Hearts
 permalink: /and-hearts
 ---
+`#iKaraBoutYou`
 
-Here are all the things iHeart [jekyllrb.com](https://jekyllrb.com/)
+This is a non-exhaustive, living-breathing list of stuff iHeart.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Shoutout to all the nouns that are giving me life!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## People
+ - Write/Speak/Code Team
+ - Duretti
+ - Sandi Metz
+ - Another Round Team
+ - LaToya Allen of SheNomads
+ - Wes Bos
 
+## Places
+ - Dev Bootcamp
+ - Chicago Tech Diversity Initiative
+ - AndConf
+ - THOTCON
+ - CodeNewbie Chat
 
-[jekyll-organization]: https://github.com/jekyll
+## Things
+ - Unicode
+ - ES6
+ - WebAPIs
+ - Treo600

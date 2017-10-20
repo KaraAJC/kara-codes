@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SQL Transactions
-date:   2017-10-03 09:55:30 -0500
-categories:til
+date: 2017-10-03 09:55:30 -0500
+categories: til
 tags: til hashrocket sql postgres db
 permalink: /til/sql-transactions
 ---

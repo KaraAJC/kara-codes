@@ -4,15 +4,32 @@ title: Creates
 permalink: /stuff/
 ---
 
-Here are all the things iHeart [jekyllrb.com](https://jekyllrb.com/)
+`#AlwaysBeMaking`
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here's a set of things that I've created:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Tech Stuff
+___
+- ### [IDAT (I Did A Thing)](https://KaraAJC.github.io/idat)
+A way to share things fellow QTPOC have made
 
+- ### Commit-odoro
+A Ruby gem to remind you to commit!
 
-[jekyll-organization]: https://github.com/jekyll
+- ### [Represents Me](https://latinotechies.github.io/represents-me)
+A site to see who represents you, using Google Civic API
+
+## Design Stuff
+---
+- ### United Latinx Pride Flyers
+6 years of Marketing materials I've designed
+
+## Creative Stuff
+___
+- ### Keys By Kara
+An Etsy shop of beautiful key earrings for sale
+
+## Other Stuff
+___
+*stay tuned...*
+

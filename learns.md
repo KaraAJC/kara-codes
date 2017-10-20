@@ -4,15 +4,26 @@ title: Learns
 permalink: /til/
 ---
 
-Here are all the things iHeart [jekyllrb.com](https://jekyllrb.com/)
+`#SoakingUpThatKnowledge`
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Stuff I 💖 learning about:
+ - Emoji 🤓
+ - Hex Codes
+ - Apps that QTPOC folks are making
+ - Hackathons
+ - Linux Commands
+ - Naming Conventions
+ - Ways to be more inclusive
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## TIL posts:
+<ul>
+{% for post in site.categories['til'] %}
+  <li>
+    {{ post.date | date_to_string }} |
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
 
-
-[jekyll-organization]: https://github.com/jekyll
+  </li>
+{% endfor %}
+</ul>

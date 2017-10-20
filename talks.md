@@ -3,8 +3,19 @@ layout: page
 title: Talks
 permalink: /and-talks/
 ---
+`#TellEm`
 
-## Here are all the lovely presentations I've made (and some I hope to give again! `#InviteMeToSpeak` )
+I've been honored to speak at the following events:
+- AndConf 2015
+- Windy City Rails 2016
+- Lesbians Who Tech 2017
+- Write/Speak/Code 2017
+
+## Presentations
+
+Here are all the lovely presentations I've made
+
+(and some I hope to give again! `#InviteMeToSpeak` )
 
 ### [So You Want To Build A thing](https://docs.google.com/presentation/d/1hVcg2tHwQtWIgkcYgvTbfEPWbOtmMm9j0f4hPvRi_Wg/edit?usp=sharing)
 
