@@ -5,11 +5,12 @@ permalink: /and-talks/
 ---
 `#TellEm`
 
-I've been honored to speak at the following events:
+I've been honored to speak at the following:
 - AndConf 2015
-- Windy City Rails 2016
-- Lesbians Who Tech 2017
-- Write/Speak/Code 2017
+- [Windy City Rails 2016](https://windycityrails.com/videos/2016/#lightning-talks-day-two)
+- Lesbians Who Tech Chicago 2017
+- [Write/Speak/Code 2017](https://2017.writespeakcode.com/index.html#speakers)
+- [Vocalo Radio 2015-2017](https://soundcloud.com/karitas/sets/tech-talks)
 
 ## Presentations
 
