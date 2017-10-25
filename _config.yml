@@ -14,11 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Kara Codes!
+author: Kara Carrell
 email: holla@kara.codes
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey did you know, Kara Codes! She also Builds, Learns, Talks, Loves, and Stans! Come catch a glimpse of a Queer Woman of Color in Tech at Work.
+  Hey, did you know?! Kara Codes! She also Loves, Learns, Builds, Talks, and Stans for her peoples! Come catch a glimpse of a Queer Woman of Color in Tech at Work.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://Kara.codes" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Kara.codes" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KaraAJC
 github_username:  KaraAJC
 

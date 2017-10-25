@@ -1,0 +1,61 @@
+.site-header {
+  border-top: 5px solid #14a5a8;
+}
+
+.site-title {
+  color: #0c8c8c;
+  font-family: 'Nixie One', cursive;
+}
+
+.site-nav .page-link {
+  color: #14a5a8;
+  font-family: 'Nixie One', cursive;
+  font-weight: bold;
+}
+
+.icon>svg path {
+  fill: #d42616;
+}
+
+.footer-col-wrapper {
+  color: #14a5a8;
+}
+
+a.post-link {
+  color: #2f5973;
+}
+
+a:hover {
+  color: #c18e74;
+}
+
+.footer-col.footer-col-3 {
+  font-family: 'Nixie One', cursive;
+  font-weight: bold;
+}
+
+img[alt="kara"] {
+  width: 50%;
+  position: fixed;
+  left: 51%;
+  top: 16%;
+}
+
+.post-list {
+  width: 50%;
+  margin-left: 0;
+  list-style: none;
+}
+
+@media screen and (max-width: 600px) {
+  img[alt="kara"] {
+  width: 100%;
+  position: static;
+  }
+
+  .post-list {
+  width: 100%;
+  margin-left: 0;
+  list-style: none;
+}
+}

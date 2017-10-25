@@ -1,0 +1,31 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Hey, did you know?! Kara Codes! | Blog & more">
+  <!-- Schema.org for Google -->
+  <meta itemprop="name" content="Kara.Codes">
+  <meta itemprop="description" content="Hey, did you know?! Kara Codes! | Blog & more">
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Kara.Codes">
+  <meta name="twitter:description" content="Hey, did you know?! Kara Codes! | Blog & more">
+  <meta name="twitter:site" content="@KaraAJC">
+  <meta name="twitter:creator" content="@KaraAJC">
+  <meta name="twitter:image:src" content="https://kara.codes/pics/karacodes.png">
+  <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+  <meta name="og:title" content="Kara.Codes">
+  <meta name="og:description" content="Hey, did you know?! Kara Codes! | Blog & more">
+  <meta name="og:image" content="https://kara.codes/pics/karacodes.png">
+  <meta name="og:url" content="https://kara.codes">
+  <meta name="og:site_name" content="Kara.Codes!">
+  <meta name="og:type" content="website">
+  <!-- Styles -->
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link href="https://fonts.googleapis.com/css?family=Nixie+One" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/kara.css" | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+</head>
