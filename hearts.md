@@ -11,7 +11,8 @@ Shoutout to all the nouns that are giving me life!
 
 ## People
  - Write/Speak/Code Team
- - Duretti
+ - My Dev Bootcamp Teachers
+ - @Duretti
  - Sandi Metz
  - Another Round Team
  - LaToya Allen of SheNomads
@@ -23,9 +24,16 @@ Shoutout to all the nouns that are giving me life!
  - AndConf
  - THOTCON
  - CodeNewbie Chat
+ - Ping Tom Park, Chicago
 
 ## Things
  - Unicode
  - ES6
  - WebAPIs
  - Treo600
+ - My Music Collection
+ - github
+ - Androids
+ - Google Fonts
+ - PicMonkey
+ - Avocadoes
