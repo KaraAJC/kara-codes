@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Battle Two: Ruby Vs Javascript
+title: Battle Two - Ruby Vs Javascript
 date:  2014-11-22 09:55:30 -0500
 categories: DBC Technical
-tags: Javascript, diva, Ruby, nerdlife, gititgurl, programming, languages, syntax, #DBCJavaScript
+tags: Javascript diva Ruby nerdlife gititgurl programming languages syntax #DBCJavaScript
 permalink: /dbc/ruby-vs-javascript
 ---
 

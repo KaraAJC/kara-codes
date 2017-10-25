@@ -1,6 +1,10 @@
 ---
 layout: post
 title: factoryGirl is now factoryBot
+date: 2017-10-23
+categories: til
+tags: feminism naming broculture diversity inclusion github thoughtbot
+permalink: /til/factorygirl-is-now-factorybot
 ---
 
 Apparently, `FactoryGirl`, a Gem that uses the factory pattern to build mocks needed for a test to appropriately run model dependencies, has been renamed to `FactoryBot`.

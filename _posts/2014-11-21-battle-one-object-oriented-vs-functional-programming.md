@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Battle One: Object-Oriented vs. Functional Programming
-date: 2014-11-21 09:55:30 -0500
+title: Battle One - Object-Oriented vs. Functional Programming
+date: 2014-11-21
 categories: DBC Technical
-tags: OOP, OOD, Object-Oriented, Functional, Programming, Sammiches, Ruby, nerdlife, gititgurl, #DBCConcepts
+tags: OOP OOD Object-Oriented Functional Programming Sammiches Ruby nerdlife gititgurl #DBCConcepts
 permalink: /dbc/object-oriented-vs-functional-programming
 ---
 
