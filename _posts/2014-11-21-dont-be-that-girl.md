@@ -15,7 +15,7 @@ permalink: /dbc/dont-be-that-girl
 
 #### What is Stereotype Threat?
 
-![bitmoji kara defines Stereotype threat](pics/stereotype_threat_definition.jpg)
+![bitmoji kara defines Stereotype threat](/pics/stereotype_threat_definition.jpg)
 
 From the interwebs:
 > Stereotype threat refers to being at risk of confirming, as self-characteristic, a negative stereotype about one's group (Steele & Aronson, 1995).
@@ -24,7 +24,7 @@ This term was first used by Steele and Aronson (1995) who showed in several expe
 
 #### How does Stereotype Threat work?
 
-![bitmoji kara explains how stereotype affects her](pics/stereotype_threat_kara.jpg)
+![bitmoji kara explains how stereotype affects her](/pics/stereotype_threat_kara.jpg)
 
 Stereotype Threat is something just about anyone can experience. In the above example, it was black college freshman, but if anyone was in an environment that they were in fear of being negatively stereotyped (be they any race, creed, gender, sexuality, ability, etc), you'll find Stereotype Threat. Some symptoms I resonated with was the immediate need to **count other people in the room, and see if I was "the only one"**. Another symptom is **negative self-talk**, or the feeling like I'm doomed to fail, taking extra energy away from the task at hand. In some studies, even "positive reinforcement" can hinder performance, by driving home the idea that your success or your step towards success is not the norm for "people like you". The other term that came up was "Imposter Syndrome", which I often feel in my work, feeling as if I haven't accomplished or learned "enough" to be able to belong.
 

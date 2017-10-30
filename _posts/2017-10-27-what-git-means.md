@@ -10,7 +10,7 @@ permalink: /til/what-git-means
 I went on a tiny rabbit hole to determine whether the term `git` actually stood for something.
 
 Googling git, I actually got this amusing tidbit:
-![definition of git](pics/git-definition.png)
+![definition of git](/pics/git-definition.png)
 
 then, I realized, that the above definition _actually influenced_ the author of git, Linus Torvalds (creator of Linux), to name the program as such. There are other acronyms for the software, the nicest being **G**lobal **I**nformation **T**racker, but Torvald's purpose for choosing git was that it was a
 

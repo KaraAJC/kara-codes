@@ -26,5 +26,6 @@ So, Git sounds like a great way to keep your code in order, but what about havin
 
 so git out there, and git it girl!
 
+
 Tags
 Git, Github, Winning, DBCgit

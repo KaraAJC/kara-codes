@@ -6,22 +6,14 @@ categories: til
 tags: middleware ruby CS
 permalink: /til/middleware
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Today we talked a lot about what middleware was, and I read up on a few answers in stack overflow:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+https://stackoverflow.com/questions/2904854/what-is-middleware-exactly
 
-Jekyll also offers powerful support for code snippets:
+which inspired this tweet:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">software, middleware, firmware, hardware, someware, everyware, yousaware, isaware, everyones&#39; a ware ware..</p>&mdash; Kara 🔥  Carr-HELL (@KaraAJC) <a href="https://twitter.com/KaraAJC/status/920301885294333955?ref_src=twsrc%5Etfw">October 17, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+

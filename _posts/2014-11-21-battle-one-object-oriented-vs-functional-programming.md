@@ -12,7 +12,7 @@ permalink: /dbc/object-oriented-vs-functional-programming
 Quick, Everyone write the steps you take to make a PB&J Sandwich.
 
 Go on, I'll wait.
-<!-- PICTURE HERE -->
+![bitmoji kara getting ready for PB&J](/pics/PBJ-programming.png)
 .........Ok, how many steps were there? 5, 10? 50?? do you think if you gave this list of instructions that an alien from another planet would be able to follow them? Programming is the process of telling a computer what to do, much like it would be to tell an alien, because you're giving the instructions, AND you're defining the environment around you, at the same time!
 
 There are many different kinds of programming LANGUAGES, and what I've been learning so far has been the RUBY language. Ruby is built upon a few concepts that come from what is called Object-Orientation. Object Oriented Program focuses on everything being built through Objects. Objects are able to "learn" behaviors, and through that, change. Objects hold data, and can be called upon to take actions called methods to function.
