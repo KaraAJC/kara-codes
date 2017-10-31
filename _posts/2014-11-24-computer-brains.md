@@ -23,9 +23,10 @@ For each piece of information that needs to be stored, the computer leaves a spo
 By doubling my computer's capacity for Random Access Memory, I can now run multiple processes, and my computer will be able to facilitate each process without breaking a sweat. `#NiceDeskBruh`
 
 To learn more about how Memory works, I suggest looking at these great articles that go into detail about each concept I brought up, and has a few fun exercises you can do to better understand Binary code, Bits, Bytes, and RAM.
-[Explain That Stuff - How computer memory works](http://www.explainthatstuff.com/how-computer-memory-works.html)
-[How Stuff Works - Computer Memory](http://computer.howstuffworks.com/computer-memory.html)
-[Bits, Bytes, Building With Binary - BaseCS by Vaidehi Joshi](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa)
 
-Tags
-tech, memory, bits, binary, history, nerdlife, gititgurl, `#DBCtech`
+- [Explain That Stuff - How computer memory works](http://www.explainthatstuff.com/how-computer-memory-works.html)
+- [How Stuff Works - Computer Memory](http://computer.howstuffworks.com/computer-memory.html)
+- [Bits, Bytes, Building With Binary - BaseCS by Vaidehi Joshi](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa)
+
+#### Tags
+_tech, memory, bits, binary, history, nerdlife, gititgurl, `#DBCtech`_
