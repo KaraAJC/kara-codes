@@ -2,6 +2,10 @@
   border-top: 5px solid #14a5a8;
 }
 
+.site-footer {
+  border-bottom: 5px solid #14a5a8;
+}
+
 .site-title {
   color: #0c8c8c;
   font-family: 'Nixie One', cursive;
@@ -57,5 +61,5 @@ img[alt="kara"] {
   width: 100%;
   margin-left: 0;
   list-style: none;
-}
+  }
 }

@@ -18,6 +18,8 @@ author: Kara Carrell
 email: holla@kara.codes
 description: >- # this means to ignore newlines until "baseurl:"
   Hey, did you know?! Kara Codes! She also Loves, Learns, Builds, Talks, and Stans for her peoples! Come catch a glimpse of a Queer Woman of Color in Tech at Work.
+
+  Site built on jekyll by yours truly, with zest & gusto!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Kara.codes" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KaraAJC
