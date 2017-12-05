@@ -20,4 +20,4 @@ If you want to review my portfolio, you can find that at [https://KaraAJC.github
 - [x] tags
 - [ ] "Noun" layout template for things I [heart](http://kara.codes/and-hearts)
 - [ ] Project layout template for things I [create](http://kara.codes/stuff)
-- [ ] Talk layout template for things I [speak](http://kara.codes/and-talks)a
+- [ ] Talk layout template for things I [speak](http://kara.codes/and-talks)
