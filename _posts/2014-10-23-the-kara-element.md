@@ -15,8 +15,11 @@ Friends: I'm finishing up Dev Bootcamp, Phase Zero, Week Two, and I have to say,
 It got me good.
 
 But during the time I took completing the challenges for Week Two, I learned SO much about HTML and CSS, that I got this pretty lil' website to show for it!
-![The website at the time](/pics/)
 
+_Edit: This was the website I built from scratch during Dev Bootcamp Phase Zero_
+![The website at the time](/pics/oldsite.png)
+
+<br/>
 Today, I want to show you all a few things I learned about HTML and CSS; Things that help many of the websites you love look as beautiful as they do, and keep others from getting there. This post is going to be about a foundational concept you need when you think about websites. It's called the Box Model. And though beauty is in the eye of the beholder, this model helps you understand the parameters you can declare to digitally express yourself in any way you'd like, and if you know me and my nerdy, feminist, body-positive ideals, you **know** I'm loving that!
 
 [The Box Model](http://css-tricks.com/the-css-box-model/) is a concept that web developers and designers use to determine how they want the elements that they create to look and interact with eachother. It basically states that all elements are boxes. What I've done here is decide to explain the Box Model using my lovely self, in Bitstrip form, as a model.
