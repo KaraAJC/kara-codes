@@ -3,10 +3,12 @@ layout: post
 title: Brain Flex Zone
 date:  2014-10-26 09:55:30 -0500
 categories: DBC Cultural
-tags: Growth Mindset, fixed mindset, carol dwek, VARK, multi-modal, learning styles, #DBCThinkStyle
+tags: Growth-Mindset, fixed-mindset, "carol dwek", VARK, multi-modal, "learning styles"
 permalink: /dbc/brain-flex-zone
 ---
 ## How my Thinking and Learning Styles help my brain stay flexed
+
+`#DBCThinkStyle`
 
 Happen to know what your Learning style is? What about your Thinking style? As we close on Unit 1 of Phase Zero at Dev Bootcamp, I reflect on how these styles have helped me get to this point, and what actions I can take, knowing my strengths and weaknesses within these styles, to successfully tackle the next unit of work.
 
