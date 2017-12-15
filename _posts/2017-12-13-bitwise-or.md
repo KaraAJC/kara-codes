@@ -10,7 +10,7 @@ permalink: /til/bitwise-or
 Talking to a senior engineer the other day, I came across a line of code that looked something like this:
 
 ```ruby
-items.inject(0) { |perm, v| ( v | items[i].even? ) }
+items.inject(0) { |perm, v| ( v | permissions[i] ) }
 ```
 (_PS this is gibberish ruby code I made up, don't at me._)
 
@@ -31,10 +31,13 @@ If we looked at a more simple example, we can walk through bitwise comparison st
 
 # so, if we wanted to compare the binary representations of 12 and 9, the bitwise or operator will look at each bit (from right to left) and choose 1 if one or both bits are 1:
 
+(12 | 9)
+
 "1 1 0 0"
 "1 0 0 1"
 ---------
  1 1 0 1 # guess what number this is?
+
 
 ```
 
