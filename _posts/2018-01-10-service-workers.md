@@ -7,7 +7,8 @@ tags: offline-first PWA Web-APIs GrowWithGoogle Mobile-Web-Specialist Udacity
 permalink: /til/service-workers-intro
 ---
 
-Today I was informed of my acceptance into the Grow With Google Scholarship in the Mobile Web Specialist track! 🎉
+Today I was informed of my acceptance into the Grow With Google Scholarship in the Mobile Web Specialist track!🎉
+![Udacity Scholarship Badge](https://s3-us-west-2.amazonaws.com/udacity-email/Scholarships/GrowWithGoogleDeveloperChallengeScholarship.png?utm_medium=email&utm_campaign=sch_600_auto_ndxxx_accepted-gwg&utm_source=blueshift&utm_content=sch_600_auto_ndxxx_accepted-gwg&bsft_eid=0278905a-c28b-4a40-852e-38bdcbd095b7&bsft_clkid=e786d1c4-a79e-409d-a528-903cd2736f40&bsft_uid=04bccbf8-86ac-40af-ac38-755d2002eebd&bsft_mid=c618d3cd-9d86-4ccd-9959-ec0953394de6&bsft_txnid=cce569b8-09b2-4c78-9ea3-5a8a625bfa46)
 
 I've got 3 months to hone my skills on new web development technologies, and the first few lessons are focused on **Offline First** Development.
 
@@ -25,7 +26,8 @@ On page load, you call the Navigator to register the service worker, and from th
 
 ```js
 
-  // Code from Mozilla's web docs: https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerContainer/register
+  // Code from Mozilla's web docs: 
+  // https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerContainer/register
 
 // in your main.js
     if ('serviceWorker' in navigator) {
