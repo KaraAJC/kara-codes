@@ -14,6 +14,7 @@ permalink: /til/
  - Linux Commands
  - Naming Conventions
  - Ways to be more inclusive
+ - A11y implementations
 
 ## TIL posts:
 <ul>

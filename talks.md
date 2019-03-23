@@ -21,7 +21,16 @@ Here are all the lovely presentations I've made
 (and some I hope to give again! `#InviteMeToSpeak` )
 
 ### [Pair-A-Palooza](https://kara.codes/pair-a-palooza-presentation.pdf)
+
 <iframe src="https://kara.codes/pair-a-palooza-presentation.pdf" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### [It's ama-ZINE all that you can do!](https://docs.google.com/presentation/d/1lUuDxEE2dXOGZYTU_2d1k0Baoo06iGyPEFIAuwuvZOo/edit?usp=sharing)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTptXsP6HhdX6L8ueo5J1i4ci_D3gy5YTODtWDGFxT3JiHJY6FngzoQ92hZgq3Zd1hrKd3CBpQJA0ol/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### [10 Fun Facts about Emoji](https://docs.google.com/presentation/d/1yzpsoqFrbOUWGtY1Aol9YotWOTnQMYA8LdoFmoZMCVk/edit?usp=sharing)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK4p8wHmF2uD6Sv54ik7pds6u3bHNhg2vLaeukFKIRB5mzLC2kWxeSTIx4tyhUNaa96zT3_31jB5qF/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### [So You Want To Build A thing](https://docs.google.com/presentation/d/1hVcg2tHwQtWIgkcYgvTbfEPWbOtmMm9j0f4hPvRi_Wg/edit?usp=sharing)
 
@@ -59,9 +68,17 @@ Here are all the lovely presentations I've made
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwFeqYOEI7bWNI4WgH4tJUS24ra1_HdX4k9WEh9nWvGoaKtbxL056rgWRrfNCrTlT2AwFgsm4jDy5A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Keep It 100
+### [Keep It 100](https://docs.google.com/presentation/d/1e7rnz-txVa6vXq0hFXQwcFiexsGbVr-8N0Gx50zOlOc/edit?usp=sharing)
 
-### Know Better. Do Better.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_5aMiOvCNw9zvTGhPlaP8xB_1ebizNPJuG9V5IVSpG_btdFFIVTmGOhpZdgZHxkwGtUC0ShFkrhIc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### [Know Better. Do Better.](https://docs.google.com/presentation/d/18tZF2omBFbo6635Vw6mAOI9JGzgZDkOM0KqxBowLvIA/edit?usp=sharing)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrURFupPmZag9B2w_ut8mloH4JDVorJpcGW2tR7Lw2H8EYbzv1m4AvKpmbIArNdb4SAxRwxuxXWk3j/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Coming Soon
+
+### My Ofrenda to Tech Project Ancestors
 
 ### Big-O Notation
 

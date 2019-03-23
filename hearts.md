@@ -19,9 +19,11 @@ Shoutout to all the nouns that are giving me life!
  - Wes Bos
 
 ## Places
+ - TableXI
  - Dev Bootcamp
  - Chicago Tech Diversity Initiative
  - AndConf
+ - PearConf
  - THOTCON
  - CodeNewbie Chat
  - Ping Tom Park, Chicago
@@ -37,3 +39,5 @@ Shoutout to all the nouns that are giving me life!
  - Google Fonts
  - PicMonkey
  - Avocadoes
+ - Frixion Pens
+ - My Tinselwear Necklace
