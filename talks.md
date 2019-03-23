@@ -11,12 +11,17 @@ I've been honored to speak at the following:
 - Lesbians Who Tech Chicago 2017
 - [Write/Speak/Code 2017](https://2017.writespeakcode.com/index.html#speakers)
 - [Vocalo Radio 2015-2017](https://soundcloud.com/karitas/sets/tech-talks)
+- [Write/Speak/code 2018](https://2018.writespeakcode.com)
+- [PearConf 2019](https://www.youtube.com/watch?v=zGTtAFdgX-w)
 
 ## Presentations
 
 Here are all the lovely presentations I've made
 
 (and some I hope to give again! `#InviteMeToSpeak` )
+
+### [Pair-A-Palooza](https://kara.codes/pair-a-palooza-presentation.pdf)
+<iframe src="https://kara.codes/pair-a-palooza-presentation.pdf" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### [So You Want To Build A thing](https://docs.google.com/presentation/d/1hVcg2tHwQtWIgkcYgvTbfEPWbOtmMm9j0f4hPvRi_Wg/edit?usp=sharing)
 
