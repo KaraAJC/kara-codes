@@ -25,3 +25,4 @@ You can find out more about what I've been doing on the web via:
 - [LinkedIN](https://www.linkedin.com/in/KaraAJC)
 - [Portfolio Site](https://karaajc.github.io/index.html#about)
 - [Resume](#)
+- [Kara.Codes on Instagram](https://instagram.com/kara.codes/)

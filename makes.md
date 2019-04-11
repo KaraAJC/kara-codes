@@ -10,6 +10,12 @@ Here's a set of things that I've created:
 
 ## Tech Stuff
 ___
+- ### [Non-Binary Folks In Tech Zine]
+A 4-volume series of zines showcasing 100 non-binary folks in tech.
+
+- ### [Nail-Scratch](https://glitch.com/~nail-scratch)
+A tiny web toy to scratch the interwebs, remixed from CharStile's [Nail Project](https://glitch.com/~nails)
+
 - ### [IDAT (I Did A Thing)](https://KaraAJC.github.io/idat)
 A way to share things fellow QTPOC have made
 
@@ -29,7 +35,7 @@ ___
 - ### Keys By Kara
 An Etsy shop of beautiful key earrings for sale
 
-- ### [The Pear-A-Palooza Experience](https://github.com/KaraAJC/pair-a-palooza)
+- ### [The Pair-A-Palooza Experience](https://github.com/KaraAJC/pair-a-palooza)
 
 -  ### get-ZINE-to-know-you Zine
 
