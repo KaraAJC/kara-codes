@@ -41,6 +41,9 @@ An Etsy shop of beautiful key earrings for sale
 
 -  ### How to Emcee a Conference Zine
 
+-  ### Get That BITCOIN Zine
+
+
 ## Other Stuff
 ___
 *stay tuned...*
