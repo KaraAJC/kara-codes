@@ -12,6 +12,8 @@ Shoutout to all the nouns that are giving me life!
 ## People
  - Write/Speak/Code Team
  - My Dev Bootcamp Teachers
+ - Amy Wibowo, creator of Bubble Sort Zines
+ - Julia Evans, of Wizard Zines
  - @Duretti
  - Sandi Metz
  - Another Round Team
@@ -26,6 +28,7 @@ Shoutout to all the nouns that are giving me life!
  - PearConf
  - THOTCON
  - CodeNewbie Chat
+ - the Dev.to community
  - Ping Tom Park, Chicago
 
 ## Things

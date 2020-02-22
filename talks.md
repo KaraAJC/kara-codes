@@ -13,12 +13,20 @@ I've been honored to speak at the following:
 - [Vocalo Radio 2015-2017](https://soundcloud.com/karitas/sets/tech-talks)
 - [Write/Speak/code 2018](https://2018.writespeakcode.com)
 - [PearConf 2019](https://www.youtube.com/watch?v=zGTtAFdgX-w)
+- [Write/Speak/Code 2019](https://www.writespeakcode.com/2019/program/#get-zine-to-know-you-a-workshop-for-team-building-through-zines)
+- [MozFest 2019](https://medium.com/mozilla-festival/mozfest-2019-highlights-b8084b8b64b2)
 
 ## Presentations
 
 Here are all the lovely presentations I've made
 
 (and some I hope to give again! `#InviteMeToSpeak` )
+
+### [Death & Open Source: An Ofrenda to my tech ghosts](https://discourse.mozilla.org/t/an-ofrenda-to-tech-ghosts/46740)
+
+### [getZINE to know you! a Zine workshop for teams](https://github.com/KaraAJC/get-zine-to-know-you)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdS008LxWV0anKIiACWnBwDn2F09vcZBKBu47t9dZaLKMOjKUN-Mo3o2-SNT86j3kVkelbj54RPAq2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### [Pair-A-Palooza](https://kara.codes/pair-a-palooza-presentation.pdf)
 
@@ -78,7 +86,8 @@ Here are all the lovely presentations I've made
 
 ## Coming Soon
 
-### My Ofrenda to Tech Project Ancestors
+
+### Nail Conf
 
 ### Big-O Notation
 
