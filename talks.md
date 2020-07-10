@@ -22,7 +22,12 @@ Here are all the lovely presentations I've made
 
 (and some I hope to give again! `#InviteMeToSpeak` )
 
+### [A11y OOP! 5 things I do to make code more accessible](https://kara.codes/a11y00p-presentation.pdf)
+<iframe src="https://kara.codes/a11y00p-presentation.pdf" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ### [Death & Open Source: An Ofrenda to my tech ghosts](https://discourse.mozilla.org/t/an-ofrenda-to-tech-ghosts/46740)
+
+<iframe src="https://discourse.mozilla.org/t/an-ofrenda-to-tech-ghosts/46740" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### [getZINE to know you! a Zine workshop for teams](https://github.com/KaraAJC/get-zine-to-know-you)
 
